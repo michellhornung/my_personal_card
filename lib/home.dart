@@ -85,7 +85,7 @@ class MyCard extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
                       Image.asset(
-                        'images/NatiWhatsApp.png',
+                        'images/qrcode.png',
                         width: 280,
                         height: 280,
                         //alignment: Alignment(3, 5),
